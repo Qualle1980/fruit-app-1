@@ -1,6 +1,6 @@
 #Python
---pycache--/
-*py[cod]
+__pycache__/
+*.py[cod]
 *.egg-info/
 
 
